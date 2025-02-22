@@ -1,9 +1,9 @@
 # Blinkit -Data Analysis (Interactive Dashboard creation using Power BI)
 
-## Project Objective
+## Project Objective:
 To conduct a comprehensive analysis of Blinkit sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualizations in Power BI.
 
-## Dataset Used
+## Dataset Used:
 - <a href=https://github.com/gunjan403/PowerBI-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx>Blinkit Dataset</a>
 
 ## KPI’s:
@@ -45,7 +45,7 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
    a.	Objective: Provide a comprehensive view of all key metrics (Total sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
    b.	Chart Type: Matrix card
 
-## Process
+## Process:
 -Identify data sources (Excel, SQL Server, etc.)
 
 -Clean and transform data using Power Query (remove duplicates, handle missing values).
@@ -56,7 +56,7 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 
 -Choose the right visualizations (e.g., bar chart, pie charts, maps, matrix, cards
 
-## Dashboard
+## Dashboard:
 
 <img width="708" alt="Image" src="https://github.com/user-attachments/assets/d801b6d2-31a7-46e6-aeb9-e4c3b935978c" />
 
