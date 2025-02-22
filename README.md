@@ -1,2 +1,4 @@
-# PowerBI-Dashboard
-I have developed a comprehensive project in Power BI, creating multiple dashboard and tables to analyze the data. This process involved various stages including data cleaning, data processing, data visualization.
+# Blinkit -Data Analysis (Interactive Dashboard creation using Power BI)
+## Project Objective
+To conduct a comprehensive analysis of Blinkit sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualizations in Power BI.
+
