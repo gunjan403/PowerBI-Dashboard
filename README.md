@@ -58,7 +58,8 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 
 ## Dashboard
 
-https://github.com/gunjan403/PowerBI-Dashboard/blob/main/Dashboard%20Image.PNG
+<img width="708" alt="Image" src="https://github.com/user-attachments/assets/d801b6d2-31a7-46e6-aeb9-e4c3b935978c" />
+
 
 
 
