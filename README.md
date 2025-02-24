@@ -60,6 +60,18 @@ To conduct a comprehensive analysis of Blinkit sales performance, customer satis
 
 <img width="708" alt="Image" src="https://github.com/user-attachments/assets/d801b6d2-31a7-46e6-aeb9-e4c3b935978c" />
 
+## Project Insights:
+- At $204,522.26, 2018 had the highest Total Sales and was 161.77% higher than 2011, which had the lowest Total Sales at $78,131.57.
+-Fruits and Vegetables, Snacks and Household items are the top 3 items purchased. 
+-2018 accounted for 17.02% of Total Sales.
+-Across all 9 Outlet Establishment Year, Total Sales ranged from $78,131.57 to $204,522.26.
+-Total Sales was higher for Low Fat ($776,319.69) than Regular (425,361.80).
+-Tier 3 in Item Fat Content Low Fat made up 25.53% of Total Sales.
+-Average Total Sales was higher for Low Fat (258,773.23) than Regular (141,787.27).
+-Total Sales for Low Fat and Regular diverged the most when the Outlet Location Type was Tier 3, when Low Fat were $141,480.96 higher than Regular.
+
+
+
 
 
 
